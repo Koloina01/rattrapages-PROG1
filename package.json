@@ -1,7 +1,8 @@
 {
   "devDependencies": {
     "chai": "^6.2.0",
-    "mocha": "^11.7.4"
+    "mocha": "^11.7.4",
+    "type": "module"
   },
   "scripts": {
     "test": "mocha"
